@@ -1,4 +1,5 @@
-pycaret
+sklearn
 streamlit
 pandas
 numpy
+pycaret
