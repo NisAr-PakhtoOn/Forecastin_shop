@@ -1,2 +1,2 @@
 pycaret==1.0.0
-streamlit
+streamlit==1.14.0
