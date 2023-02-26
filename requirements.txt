@@ -1,1 +1,2 @@
-pycaret[full]
+pycaret==2.3.10
+streamlit==1.19.0
